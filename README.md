@@ -1,2 +1,15 @@
 # test1
- test
+
+[-n] 
+[--stat]
+[--no-commit]
+[--squash] 
+[--[no-]edit]
+[--no-verify] 
+[-s <strategy>] 
+ [-X <strategy-option>] 
+ [-S[<keyid>]]
+	[--[no-]allow-unrelated-histories]
+	[--[no-]rerere-autoupdate] 
+ [-m <msg>] 
+ [-F <file>]
